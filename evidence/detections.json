@@ -1,0 +1,368 @@
+[
+  {
+    "time": "20251229_035001",
+    "hazard": "debris",
+    "confidence": 0.3,
+    "image": "debris_20251229_035001.jpg"
+  },
+  {
+    "time": "20251229_035004",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_035004.jpg"
+  },
+  {
+    "time": "20251229_035019",
+    "hazard": "debris",
+    "confidence": 0.29,
+    "image": "debris_20251229_035019.jpg"
+  },
+  {
+    "time": "20251229_035023",
+    "hazard": "debris",
+    "confidence": 0.56,
+    "image": "debris_20251229_035023.jpg"
+  },
+  {
+    "time": "20251229_035027",
+    "hazard": "debris",
+    "confidence": 0.41,
+    "image": "debris_20251229_035027.jpg"
+  },
+  {
+    "time": "20251229_035034",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_035034.jpg"
+  },
+  {
+    "time": "20251229_035042",
+    "hazard": "debris",
+    "confidence": 0.41,
+    "image": "debris_20251229_035042.jpg"
+  },
+  {
+    "time": "20251229_035048",
+    "hazard": "debris",
+    "confidence": 0.3,
+    "image": "debris_20251229_035048.jpg"
+  },
+  {
+    "time": "20251229_035059",
+    "hazard": "debris",
+    "confidence": 0.27,
+    "image": "debris_20251229_035059.jpg"
+  },
+  {
+    "time": "20251229_035112",
+    "hazard": "debris",
+    "confidence": 0.36,
+    "image": "debris_20251229_035112.jpg"
+  },
+  {
+    "time": "20251229_035118",
+    "hazard": "debris",
+    "confidence": 0.5,
+    "image": "debris_20251229_035118.jpg"
+  },
+  {
+    "time": "20251229_035140",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_035140.jpg"
+  },
+  {
+    "time": "20251229_035152",
+    "hazard": "debris",
+    "confidence": 0.26,
+    "image": "debris_20251229_035152.jpg"
+  },
+  {
+    "time": "20251229_035155",
+    "hazard": "debris",
+    "confidence": 0.32,
+    "image": "debris_20251229_035155.jpg"
+  },
+  {
+    "time": "20251229_035202",
+    "hazard": "debris",
+    "confidence": 0.29,
+    "image": "debris_20251229_035202.jpg"
+  },
+  {
+    "time": "20251229_035216",
+    "hazard": "debris",
+    "confidence": 0.46,
+    "image": "debris_20251229_035216.jpg"
+  },
+  {
+    "time": "20251229_035225",
+    "hazard": "debris",
+    "confidence": 0.27,
+    "image": "debris_20251229_035225.jpg"
+  },
+  {
+    "time": "20251229_035231",
+    "hazard": "debris",
+    "confidence": 0.46,
+    "image": "debris_20251229_035231.jpg"
+  },
+  {
+    "time": "20251229_035235",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_035235.jpg"
+  },
+  {
+    "time": "20251229_035240",
+    "hazard": "debris",
+    "confidence": 0.37,
+    "image": "debris_20251229_035240.jpg"
+  },
+  {
+    "time": "20251229_035245",
+    "hazard": "debris",
+    "confidence": 0.36,
+    "image": "debris_20251229_035245.jpg"
+  },
+  {
+    "time": "20251229_035251",
+    "hazard": "debris",
+    "confidence": 0.36,
+    "image": "debris_20251229_035251.jpg"
+  },
+  {
+    "time": "20251229_035255",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_035255.jpg"
+  },
+  {
+    "time": "20251229_035301",
+    "hazard": "debris",
+    "confidence": 0.25,
+    "image": "debris_20251229_035301.jpg"
+  },
+  {
+    "time": "20251229_035304",
+    "hazard": "debris",
+    "confidence": 0.31,
+    "image": "debris_20251229_035304.jpg"
+  },
+  {
+    "time": "20251229_035310",
+    "hazard": "debris",
+    "confidence": 0.32,
+    "image": "debris_20251229_035310.jpg"
+  },
+  {
+    "time": "20251229_035313",
+    "hazard": "debris",
+    "confidence": 0.66,
+    "image": "debris_20251229_035313.jpg"
+  },
+  {
+    "time": "20251229_035316",
+    "hazard": "debris",
+    "confidence": 0.26,
+    "image": "debris_20251229_035316.jpg"
+  },
+  {
+    "time": "20251229_035319",
+    "hazard": "debris",
+    "confidence": 0.45,
+    "image": "debris_20251229_035319.jpg"
+  },
+  {
+    "time": "20251229_035322",
+    "hazard": "debris",
+    "confidence": 0.75,
+    "image": "debris_20251229_035322.jpg"
+  },
+  {
+    "time": "20251229_035325",
+    "hazard": "debris",
+    "confidence": 0.51,
+    "image": "debris_20251229_035325.jpg"
+  },
+  {
+    "time": "20251229_035328",
+    "hazard": "debris",
+    "confidence": 0.33,
+    "image": "debris_20251229_035328.jpg"
+  },
+  {
+    "time": "20251229_035331",
+    "hazard": "debris",
+    "confidence": 0.41,
+    "image": "debris_20251229_035331.jpg"
+  },
+  {
+    "time": "20251229_035334",
+    "hazard": "debris",
+    "confidence": 0.43,
+    "image": "debris_20251229_035334.jpg"
+  },
+  {
+    "time": "20251229_035337",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_035337.jpg"
+  },
+  {
+    "time": "20251229_035341",
+    "hazard": "debris",
+    "confidence": 0.43,
+    "image": "debris_20251229_035341.jpg"
+  },
+  {
+    "time": "20251229_035344",
+    "hazard": "debris",
+    "confidence": 0.29,
+    "image": "debris_20251229_035344.jpg"
+  },
+  {
+    "time": "20251229_035347",
+    "hazard": "debris",
+    "confidence": 0.27,
+    "image": "debris_20251229_035347.jpg"
+  },
+  {
+    "time": "20251229_035352",
+    "hazard": "debris",
+    "confidence": 0.39,
+    "image": "debris_20251229_035352.jpg"
+  },
+  {
+    "time": "20251229_035358",
+    "hazard": "debris",
+    "confidence": 0.59,
+    "image": "debris_20251229_035358.jpg"
+  },
+  {
+    "time": "20251229_035401",
+    "hazard": "debris",
+    "confidence": 0.34,
+    "image": "debris_20251229_035401.jpg"
+  },
+  {
+    "time": "20251229_035404",
+    "hazard": "debris",
+    "confidence": 0.56,
+    "image": "debris_20251229_035404.jpg"
+  },
+  {
+    "time": "20251229_093635",
+    "hazard": "debris",
+    "confidence": 0.27,
+    "image": "debris_20251229_093635.jpg"
+  },
+  {
+    "time": "20251229_093640",
+    "hazard": "debris",
+    "confidence": 0.54,
+    "image": "debris_20251229_093640.jpg"
+  },
+  {
+    "time": "20251229_093643",
+    "hazard": "debris",
+    "confidence": 0.55,
+    "image": "debris_20251229_093643.jpg"
+  },
+  {
+    "time": "20251229_093649",
+    "hazard": "debris",
+    "confidence": 0.39,
+    "image": "debris_20251229_093649.jpg"
+  },
+  {
+    "time": "20251229_093652",
+    "hazard": "debris",
+    "confidence": 0.58,
+    "image": "debris_20251229_093652.jpg"
+  },
+  {
+    "time": "20251229_093657",
+    "hazard": "debris",
+    "confidence": 0.39,
+    "image": "debris_20251229_093657.jpg"
+  },
+  {
+    "time": "20251229_093706",
+    "hazard": "debris",
+    "confidence": 0.38,
+    "image": "debris_20251229_093706.jpg"
+  },
+  {
+    "time": "20251229_093710",
+    "hazard": "debris",
+    "confidence": 0.51,
+    "image": "debris_20251229_093710.jpg"
+  },
+  {
+    "time": "20251229_093717",
+    "hazard": "debris",
+    "confidence": 0.26,
+    "image": "debris_20251229_093717.jpg"
+  },
+  {
+    "time": "20251229_093723",
+    "hazard": "debris",
+    "confidence": 0.36,
+    "image": "debris_20251229_093723.jpg"
+  },
+  {
+    "time": "20251229_093735",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_093735.jpg"
+  },
+  {
+    "time": "20251229_093738",
+    "hazard": "debris",
+    "confidence": 0.28,
+    "image": "debris_20251229_093738.jpg"
+  },
+  {
+    "time": "20251229_093743",
+    "hazard": "debris",
+    "confidence": 0.29,
+    "image": "debris_20251229_093743.jpg"
+  },
+  {
+    "time": "20251229_093747",
+    "hazard": "debris",
+    "confidence": 0.29,
+    "image": "debris_20251229_093747.jpg"
+  },
+  {
+    "time": "20251229_093753",
+    "hazard": "debris",
+    "confidence": 0.37,
+    "image": "debris_20251229_093753.jpg"
+  },
+  {
+    "time": "20251229_131017",
+    "hazard": "debris",
+    "confidence": 0.31,
+    "image": "debris_20251229_131017.jpg"
+  },
+  {
+    "time": "20251229_131020",
+    "hazard": "debris",
+    "confidence": 0.25,
+    "image": "debris_20251229_131020.jpg"
+  },
+  {
+    "time": "20251229_131024",
+    "hazard": "debris",
+    "confidence": 0.57,
+    "image": "debris_20251229_131024.jpg"
+  },
+  {
+    "time": "20251229_131027",
+    "hazard": "debris",
+    "confidence": 0.31,
+    "image": "debris_20251229_131027.jpg"
+  }
+]

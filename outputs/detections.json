@@ -1,0 +1,500 @@
+[
+  {
+    "time": 1766914207.92,
+    "confidence": 0.24,
+    "severity": 791.67,
+    "evidence": "pothole_1766914207.jpg"
+  },
+  {
+    "time": 1766914208.04,
+    "confidence": 0.25,
+    "severity": 612.92,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914208.06,
+    "confidence": 0.24,
+    "severity": 682.13,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914208.2,
+    "confidence": 0.33,
+    "severity": 1283.84,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914208.3,
+    "confidence": 0.21,
+    "severity": 504.45,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914208.38,
+    "confidence": 0.7,
+    "severity": 5463.35,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914208.4,
+    "confidence": 0.41,
+    "severity": 1397.19,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914208.45,
+    "confidence": 0.29,
+    "severity": 3925.38,
+    "evidence": "pothole_1766914208.jpg"
+  },
+  {
+    "time": 1766914210.13,
+    "confidence": 0.21,
+    "severity": 559.16,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914210.46,
+    "confidence": 0.5,
+    "severity": 1289.26,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914210.58,
+    "confidence": 0.54,
+    "severity": 1588.75,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914210.64,
+    "confidence": 0.56,
+    "severity": 2040.48,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914210.66,
+    "confidence": 0.36,
+    "severity": 957.49,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914210.75,
+    "confidence": 0.22,
+    "severity": 679.91,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914210.98,
+    "confidence": 0.24,
+    "severity": 1233.93,
+    "evidence": "pothole_1766914210.jpg"
+  },
+  {
+    "time": 1766914211.25,
+    "confidence": 0.26,
+    "severity": 1928.59,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914211.34,
+    "confidence": 0.32,
+    "severity": 2431.25,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914211.46,
+    "confidence": 0.23,
+    "severity": 1355.17,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914211.51,
+    "confidence": 0.38,
+    "severity": 6945.16,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914211.65,
+    "confidence": 0.27,
+    "severity": 7483.6,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914211.77,
+    "confidence": 0.22,
+    "severity": 1621.56,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914211.79,
+    "confidence": 0.22,
+    "severity": 570.06,
+    "evidence": "pothole_1766914211.jpg"
+  },
+  {
+    "time": 1766914212.47,
+    "confidence": 0.31,
+    "severity": 740.21,
+    "evidence": "pothole_1766914212.jpg"
+  },
+  {
+    "time": 1766914212.67,
+    "confidence": 0.2,
+    "severity": 960.93,
+    "evidence": "pothole_1766914212.jpg"
+  },
+  {
+    "time": 1766914212.96,
+    "confidence": 0.3,
+    "severity": 3210.9,
+    "evidence": "pothole_1766914212.jpg"
+  },
+  {
+    "time": 1766914212.99,
+    "confidence": 0.26,
+    "severity": 1389.64,
+    "evidence": "pothole_1766914212.jpg"
+  },
+  {
+    "time": 1766914213.04,
+    "confidence": 0.45,
+    "severity": 7249.39,
+    "evidence": "pothole_1766914213.jpg"
+  },
+  {
+    "time": 1766914213.05,
+    "confidence": 0.26,
+    "severity": 1756.86,
+    "evidence": "pothole_1766914213.jpg"
+  },
+  {
+    "time": 1766914213.11,
+    "confidence": 0.22,
+    "severity": 4621.44,
+    "evidence": "pothole_1766914213.jpg"
+  },
+  {
+    "time": 1766914213.16,
+    "confidence": 0.29,
+    "severity": 1361.82,
+    "evidence": "pothole_1766914213.jpg"
+  },
+  {
+    "time": 1766914213.39,
+    "confidence": 0.32,
+    "severity": 1781.84,
+    "evidence": "pothole_1766914213.jpg"
+  },
+  {
+    "time": 1766914213.77,
+    "confidence": 0.26,
+    "severity": 769.97,
+    "evidence": "pothole_1766914213.jpg"
+  },
+  {
+    "time": 1766914214.2,
+    "confidence": 0.33,
+    "severity": 1537.8,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.58,
+    "confidence": 0.23,
+    "severity": 784.01,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.7,
+    "confidence": 0.23,
+    "severity": 678.3,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.79,
+    "confidence": 0.21,
+    "severity": 926.4,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.85,
+    "confidence": 0.3,
+    "severity": 953.17,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.87,
+    "confidence": 0.22,
+    "severity": 687.68,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.92,
+    "confidence": 0.35,
+    "severity": 4294.91,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914214.97,
+    "confidence": 0.35,
+    "severity": 2286.21,
+    "evidence": "pothole_1766914214.jpg"
+  },
+  {
+    "time": 1766914215.03,
+    "confidence": 0.2,
+    "severity": 1144.76,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.18,
+    "confidence": 0.21,
+    "severity": 2393.9,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.27,
+    "confidence": 0.29,
+    "severity": 1667.32,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.34,
+    "confidence": 0.26,
+    "severity": 912.63,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.39,
+    "confidence": 0.22,
+    "severity": 1051.59,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.45,
+    "confidence": 0.36,
+    "severity": 2934.37,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.7,
+    "confidence": 0.5,
+    "severity": 5302.28,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.75,
+    "confidence": 0.23,
+    "severity": 1135.72,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914215.89,
+    "confidence": 0.22,
+    "severity": 1810.4,
+    "evidence": "pothole_1766914215.jpg"
+  },
+  {
+    "time": 1766914216.42,
+    "confidence": 0.27,
+    "severity": 2291.7,
+    "evidence": "pothole_1766914216.jpg"
+  },
+  {
+    "time": 1766914217.0,
+    "confidence": 0.46,
+    "severity": 2442.56,
+    "evidence": "pothole_1766914216.jpg"
+  },
+  {
+    "time": 1766914217.49,
+    "confidence": 0.47,
+    "severity": 1993.99,
+    "evidence": "pothole_1766914217.jpg"
+  },
+  {
+    "time": 1766914221.48,
+    "confidence": 0.2,
+    "severity": 1198.09,
+    "evidence": "pothole_1766914221.jpg"
+  },
+  {
+    "time": 1766914222.68,
+    "confidence": 0.22,
+    "severity": 822.67,
+    "evidence": "pothole_1766914222.jpg"
+  },
+  {
+    "time": 1766914223.26,
+    "confidence": 0.24,
+    "severity": 1537.67,
+    "evidence": "pothole_1766914223.jpg"
+  },
+  {
+    "time": 1766914224.05,
+    "confidence": 0.23,
+    "severity": 1016.48,
+    "evidence": "pothole_1766914224.jpg"
+  },
+  {
+    "time": 1766914224.1,
+    "confidence": 0.4,
+    "severity": 1193.25,
+    "evidence": "pothole_1766914224.jpg"
+  },
+  {
+    "time": 1766914224.26,
+    "confidence": 0.21,
+    "severity": 720.33,
+    "evidence": "pothole_1766914224.jpg"
+  },
+  {
+    "time": 1766914224.32,
+    "confidence": 0.65,
+    "severity": 6721.02,
+    "evidence": "pothole_1766914224.jpg"
+  },
+  {
+    "time": 1766914224.72,
+    "confidence": 0.2,
+    "severity": 719.5,
+    "evidence": "pothole_1766914224.jpg"
+  },
+  {
+    "time": 1766914224.97,
+    "confidence": 0.43,
+    "severity": 2135.55,
+    "evidence": "pothole_1766914224.jpg"
+  },
+  {
+    "time": 1766914225.22,
+    "confidence": 0.21,
+    "severity": 1367.88,
+    "evidence": "pothole_1766914225.jpg"
+  },
+  {
+    "time": 1766914225.31,
+    "confidence": 0.32,
+    "severity": 4583.1,
+    "evidence": "pothole_1766914225.jpg"
+  },
+  {
+    "time": 1766914226.22,
+    "confidence": 0.51,
+    "severity": 4206.66,
+    "evidence": "pothole_1766914226.jpg"
+  },
+  {
+    "time": 1766914228.08,
+    "confidence": 0.23,
+    "severity": 1347.57,
+    "evidence": "pothole_1766914228.jpg"
+  },
+  {
+    "time": 1766914228.2,
+    "confidence": 0.36,
+    "severity": 6787.06,
+    "evidence": "pothole_1766914228.jpg"
+  },
+  {
+    "time": 1766914228.34,
+    "confidence": 0.21,
+    "severity": 863.75,
+    "evidence": "pothole_1766914228.jpg"
+  },
+  {
+    "time": 1766914229.36,
+    "confidence": 0.25,
+    "severity": 1544.55,
+    "evidence": "pothole_1766914229.jpg"
+  },
+  {
+    "time": 1766914230.25,
+    "confidence": 0.31,
+    "severity": 1757.98,
+    "evidence": "pothole_1766914230.jpg"
+  },
+  {
+    "time": 1766914230.76,
+    "confidence": 0.24,
+    "severity": 3415.2,
+    "evidence": "pothole_1766914230.jpg"
+  },
+  {
+    "time": 1766914232.38,
+    "confidence": 0.38,
+    "severity": 2275.34,
+    "evidence": "pothole_1766914232.jpg"
+  },
+  {
+    "time": 1766914232.68,
+    "confidence": 0.24,
+    "severity": 989.26,
+    "evidence": "pothole_1766914232.jpg"
+  },
+  {
+    "time": 1766914232.7,
+    "confidence": 0.23,
+    "severity": 560.97,
+    "evidence": "pothole_1766914232.jpg"
+  },
+  {
+    "time": 1766914234.03,
+    "confidence": 0.24,
+    "severity": 651.01,
+    "evidence": "pothole_1766914234.jpg"
+  },
+  {
+    "time": 1766914234.25,
+    "confidence": 0.24,
+    "severity": 2767.41,
+    "evidence": "pothole_1766914234.jpg"
+  },
+  {
+    "time": 1766914234.34,
+    "confidence": 0.23,
+    "severity": 1214.95,
+    "evidence": "pothole_1766914234.jpg"
+  },
+  {
+    "time": 1766914235.53,
+    "confidence": 0.24,
+    "severity": 1379.34,
+    "evidence": "pothole_1766914235.jpg"
+  },
+  {
+    "time": 1766914237.1,
+    "confidence": 0.54,
+    "severity": 4810.61,
+    "evidence": "pothole_1766914237.jpg"
+  },
+  {
+    "time": 1766914237.31,
+    "confidence": 0.33,
+    "severity": 3462.18,
+    "evidence": "pothole_1766914237.jpg"
+  },
+  {
+    "time": 1766914237.36,
+    "confidence": 0.22,
+    "severity": 2431.15,
+    "evidence": "pothole_1766914237.jpg"
+  },
+  {
+    "time": 1766914238.05,
+    "confidence": 0.41,
+    "severity": 820.48,
+    "evidence": "pothole_1766914238.jpg"
+  },
+  {
+    "time": 1766914238.18,
+    "confidence": 0.22,
+    "severity": 2975.68,
+    "evidence": "pothole_1766914238.jpg"
+  },
+  {
+    "time": 1766914238.6,
+    "confidence": 0.38,
+    "severity": 922.28,
+    "evidence": "pothole_1766914238.jpg"
+  }
+]
