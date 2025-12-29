@@ -1,137 +1,128 @@
-🚗 RoadGuard – AI Powered ADAS System
+<div align="center">
 
-An AI-based Advanced Driver Assistance System (ADAS) that performs real-time detection of pedestrians, vehicles, and road hazards using Computer Vision and Deep Learning.
-The system intelligently triggers voice alerts only for real danger scenarios and automatically stores evidence screenshots and structured logs.
+# 🚗 RoadGuard – AI Powered ADAS  
+### Real-Time Road Hazard & Object Detection using Computer Vision
 
-📌 Key Features
+An end-to-end **Advanced Driver Assistance System (ADAS)** that intelligently detects  
+**vehicles, pedestrians, and road hazards** and triggers **context-aware voice alerts**  
+with automatic **evidence logging**.
 
-👁️ Real-time Detection
+</div>
 
-Pedestrians
+---
 
-Cars, bikes, buses, trucks
+## ✨ Highlights
 
-Road hazards: potholes, debris, speed breakers
+- 🔍 **Real-Time Detection**
+  - Pedestrians
+  - Cars, Bikes, Buses, Trucks
+  - Potholes, Debris, Speed Breakers
 
-🧠 Context-Aware Intelligence
+- 🧠 **Smart Decision Logic**
+  - Front-zone danger filtering
+  - Distance-based risk estimation
+  - No alerts when vehicle is stationary (false-alert prevention)
 
-Front-zone danger filtering
+- 🔊 **Voice Alerts**
+  - Triggered only for real danger
+  - Plays alongside live video feed
 
-Distance-based risk estimation (Near / Medium / Far)
+- 📸 **Evidence Collection**
+  - Automatic screenshot capture
+  - Structured JSON alert logs
 
-No alerts when vehicle is stationary (false alert prevention)
+- 🧪 **Demo-Ready & Extendable**
+  - Works on recorded road / dashcam videos
+  - Easily extendable to real-time camera feeds
 
-🔊 Voice Alerts
+---
 
-Automatic voice warning for real danger only
+## 🛠️ Tech Stack
 
-Alerts play alongside live video (no external audio window)
+| Category | Technology |
+|--------|-----------|
+| Language | Python |
+| Computer Vision | OpenCV |
+| Deep Learning | YOLOv8 (Ultralytics) |
+| Audio Alerts | `winsound` |
+| Logging | JSON |
+| Training | Custom YOLOv8 Training |
 
-📸 Evidence Collection
+---
 
-Automatic screenshot capture during high-risk events
+## 🧠 Model Training Overview
 
-JSON-based structured logging for every alert
+- **Base Model:** YOLOv8 (Ultralytics)
+- **Training Type:** Custom Object Detection
+- **Hazard Classes Trained:**
+  - Pothole
+  - Debris
+  - Speed Breaker
 
-🧪 Demo-Ready
-
-Works on recorded dashcam / road videos
-
-Can be extended to real-time camera feed or embedded systems
-
-🛠️ Tech Stack
-
-Programming Language: Python
-
-Computer Vision: OpenCV
-
-Deep Learning: YOLOv8 (Ultralytics)
-
-Audio Alerts: Windows winsound
-
-Model Training: Custom YOLOv8 training
-
-Logging: JSON-based event logs
-
-🧠 Model Training Details
-
-Base Model: YOLOv8
-
-Training Type: Custom object detection
-
-Hazard Classes Trained:
-
-Pothole
-
-Debris
-
-Speed Breaker
-
-Training Configuration:
-
+### Training Configuration
+```bash
+yolo detect train model=yolov8n.pt data=road.yaml epochs=50 imgsz=640
 Epochs: 50
 
 Image Size: 640 × 640
 
-Dataset: Custom + Roboflow datasets
+Datasets: Custom datasets + Roboflow
 
-Training Command:
-
-yolo detect train model=yolov8n.pt data=road.yaml epochs=50 imgsz=640
-
-
-Training Outcome:
-
-Model successfully detects hazards in real-world road videos
-
-Integrated with COCO-pretrained YOLOv8 for vehicles and pedestrians
+Result:
+Reliable hazard detection in real-world road videos, integrated with
+COCO-pretrained YOLOv8 for vehicles & pedestrians.
 
 📁 Project Structure
+text
+Copy code
 ai-model/
 │
-├── detect_adas.py          # Main ADAS detection script
-├── road.mp4                # Sample input video
+├── detect_adas.py              # Main ADAS detection script
+├── road.mp4                    # Sample input video
 │
-├── assets/                 # Voice alert audio files
+├── assets/                     # Voice alert audio files
 │   ├── person.wav
 │   ├── vehicle.wav
 │   └── hazard.wav
 │
 ├── runs/
-│   └── detect/train3/weights/best.pt   # Trained YOLOv8 hazard model
+│   └── detect/train3/weights/
+│       └── best.pt             # Trained YOLOv8 hazard model
 │
 ├── outputs/
-│   ├── screenshots/        # Evidence images
-│   └── alerts.json         # Alert logs
+│   ├── screenshots/            # Evidence images
+│   └── alerts.json             # Structured alert logs
 │
 └── README.md
-
-▶️ How to Run the Project
-1️⃣ Clone the Repository
+▶️ How to Run
+1️⃣ Clone Repository
+bash
+Copy code
 git clone https://github.com/<your-username>/roadguard-adas.git
 cd roadguard-adas/ai-model
-
 2️⃣ Create & Activate Virtual Environment
+bash
+Copy code
 python -m venv venv
 venv\Scripts\activate
-
 3️⃣ Install Dependencies
+bash
+Copy code
 pip install ultralytics opencv-python
-
 4️⃣ Run ADAS System
+bash
+Copy code
 python detect_adas.py
-
-📤 Output Generated
+📤 Output Samples
 📸 Evidence Screenshots
+Saved automatically during high-risk detections:
 
-Saved automatically when a real danger is detected:
-
+bash
+Copy code
 outputs/screenshots/
-
 📄 JSON Alert Logs
-
-Structured alert data:
-
+json
+Copy code
 {
   "time": "2025-01-15_12-30-45",
   "type": "hazard",
@@ -140,48 +131,42 @@ Structured alert data:
   "speed": 30,
   "image": "hazard_20250115.jpg"
 }
+🎯 Use Cases
+🚘 Smart Dashcam Systems
 
-🎯 Real-World Use Cases
+🛣️ Road Safety Monitoring
 
-Smart Dashcam Systems
+🤖 Autonomous / Semi-Autonomous Vehicles
 
-Driver Assistance & Safety Applications
+📊 AI-Driven Traffic Analysis
 
-Road Condition Monitoring
+🔬 Computer Vision Research Projects
 
-Autonomous & Semi-Autonomous Vehicles
-
-AI-based Traffic Safety Research
-
-🚀 Future Improvements
-
+🚀 Future Enhancements
 GPS / OBD-based real vehicle speed integration
 
-Lane detection and lane-based risk filtering
+Lane detection & lane-aware danger zones
 
-Jetson / Raspberry Pi deployment
+NVIDIA Jetson / Raspberry Pi deployment
 
 Web dashboard for live monitoring
 
-Android Auto / in-car display integration
+In-car display / Android Auto integration
 
 👨‍💻 Author
-
 Aryan Ubale
 AI & Computer Vision Enthusiast
 📍 India
 
-Feel free to connect and share feedback on LinkedIn 🚀
+🔗 Open to feedback, collaboration & opportunities
 
 ⭐ Acknowledgements
-
-Ultralytics YOLOv8
+Ultralytics – YOLOv8
 
 OpenCV Community
 
-Open-source Computer Vision datasets
+Open-source Computer Vision Datasets
 
-🏁 Final Note
-
+Note:
 This project focuses on practical AI deployment, not just model training.
 Every alert is context-aware, evidence-backed, and demo-ready.
